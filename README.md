@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Divisha Gupta</h1>
+<h3 align="center">IT Student | Web Developer</h3>
 
-<!--
-**divisha6/divisha6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divisha6&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="DivishaGupta" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **NextJS, MERNstack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **NextJS, Flask**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 💬 Ask me about **ReactJS, NodeJS, Python**
+
+- 📫 You can also reach out to me at **divish.gupta.2005@gmail.com**
+
