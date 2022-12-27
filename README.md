@@ -12,3 +12,6 @@
 - 💬 Ask me about **ReactJS, Java, Python**
 
 - 📫 You can also reach out to me at **divish.gupta.2005@gmail.com** or **divishagupta612@gmail.com**
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
