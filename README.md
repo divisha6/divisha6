@@ -26,6 +26,24 @@
 
 <br />
 
+# GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=divisha6&show_icons=true&theme=dark)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divisha6&layout=compact&theme=dark)
+
+## Longest Streak
+
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divisha6&theme=dark)
+
+
+## Contribution Graph
+
+![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=divisha6&theme=github)
+
+
 <!-- 🧰 Languages and Tools: -->
 
 
