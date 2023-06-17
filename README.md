@@ -29,7 +29,7 @@ Connect with me on various platforms:
   
 - [<img src="https://abs.twimg.com/favicons/twitter.ico" width="20" height="20" /> Twitter](https://twitter.com/divishagupta_6) - Follow me for updates.
   
-- [<img src="https://www.instagram.com/favicon.ico" width="20" height="20" /> Instagram](https://www.instagram.com/rapturouslydivine/) - See glimpses of my coding journey.
+- [<img src="https://www.instagram.com/favicon.ico" width="20" height="20" /> Instagram](https://www.instagram.com/divisha2005/) - See glimpses of my coding journey.
   
 - [<img src="https://leetcode.com/favicon.ico" width="20" height="20" /> LeetCode](https://leetcode.com/divisha2005/) - Solve coding problems together.
   
