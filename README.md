@@ -34,6 +34,8 @@ Connect with me on various platforms:
 - [<img src="https://leetcode.com/favicon.ico" width="20" height="20" /> LeetCode](https://leetcode.com/divisha2005/) - Solve coding problems together.
   
 - [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/lqlkg85sw4sgmp2xvznh" width="20" height="20" /> HackerRank](https://www.hackerrank.com/divisha2020?hr_r=1) - Explore my coding challenges and achievements.
+
+- [<img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="20" height="20" /> Coding Ninja](https://www.codingninjas.com/studio/profile/578d157f-d714-44db-92e6-3563c241d3c9) - Join me in my DSA prep.
   
 - [<img src="https://www.codechef.com/favicon.ico" width="20" height="20" /> CodeChef](https://www.codechef.com/users/divishagupta) - Participate in coding contests alongside me.
   
